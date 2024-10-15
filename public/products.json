@@ -1,0 +1,502 @@
+{
+  "featuredProducts": [
+    {
+      "id": 1,
+      "name": "Ghế sofa hiện đại",
+      "price": 1200000,
+      "originalPrice": 1500000,
+      "coverImage": "/images/sofa-cover.jpg",
+      "images": [
+        "/images/sofa-1.jpg",
+        "/images/sofa-2.jpg",
+        "/images/sofa-3.jpg",
+        "/images/sofa-4.jpg"
+      ],
+      "description": "Ghế SOFA có đệm mềm thoải mái ngồi lâu mà không lo bị nóng hay bí lưng, mỏi người. Tạo sự ấm áp, thân thiện, là điểm nhấn cho căn phòng. Tạo sự êm ái, thoải mái và thư giãn cho người dùng sau những giờ làm việc căng thẳng. Có thể để ở các shop trang trí, chụp hình rất xinh xắn. Căn phòng dịch vụ homestay",
+      "category": "Phòng khách",
+      "tag": "20%"
+    },
+    {
+      "id": 2,
+      "name": "Bàn ăn gỗ sồi",
+      "price": 800000,
+      "coverImage": "/images/main.jpg",
+      "images": [
+        "/images/thumbnail1.jpg",
+        "/images/thumbnail2.jpg",
+        "/images/thumbnail3.jpg",
+        "/images/thumbnail4.jpg"
+      ],
+      "description": "🍽️Ăn Uống Cao Cấp: Bàn Ăn Cao Cấp, Với Sự Khéo Léo Tinh Tế Và Thiết Kế Trang Nhã, Tạo Ra Một Bầu Không Khí Ăn Uống Cao Quý Và Thoải Mái Cho Nhà Hàng Của Bạn.🌈Không Gian Rộng Rãi: Thiết Kế Bàn Ăn Chú Trọng Đến Sự Rộng Rãi Và Thiết Thực, Có Thể Chứa Nhiều Người Dùng Bữa Cùng Lúc, Cho Phép Bạn Chia Sẻ Những Món Ăn Và Giờ Vui Vẻ Với Gia Đình Và Bạn Bè.🏠Tiêu Điểm Của Nhà Hàng: Bàn Ăn Cao Cấp Này Chắc Chắn Là Trọng Tâm Của Nhà Hàng Của Bạn. Cho Dù Đó Là Bữa Ăn Hàng Ngày Hay Tiệc Tùng Ngày Lễ, Nó Có Thể Thêm Sự Quý Phái Và Sang Trọng Cho Nhà Hàng Của Bạn.🌍Vận Chuyển Toàn Cầu: Chúng Tôi Vận Chuyển Trực Tiếp Từ Kho Nước Ngoài, Mặc Dù Thời Gian Chờ Đợi Phải Mất 7-9 Ngày, Chúng Tôi Sẽ Đảm Bảo Chất Lượng Của Bàn Ăn Với Sự Xuất Sắc Của Dịch Vụ.🎁Quà Tặng Trang Nhã: Bàn Ăn Cao Cấp Là Món Quà Trang Nhã Dành Cho Người Thân Và Bạn Bè, Để Họ Có Thể Cảm Nhận Được Hương Vị Và Sự Quan Tâm Của Bạn Tại Nhà.",
+      "category": "Phòng ăn",
+      "tag": "New"
+    },
+    {
+      "id": 3,
+      "name": "Đèn trần trang trí",
+      "price": 450000,
+      "originalPrice": 600000,
+      "coverImage": "/images/ceiling-lamp-cover.jpg",
+      "images": [
+        "/images/ceiling-lamp-1.jpg",
+        "/images/ceiling-lamp-2.jpg",
+        "/images/ceiling-lamp-3.jpg",
+        "/images/ceiling-lamp-4.jpg"
+      ],
+      "description": "Thông số kỹ thuật: Điện áp: 85-265V. Nguồn sáng: LED (bao gồm). Công suất: 48W-42cm; 72W-58cm. Vật chất: Nhôm + silicon PC. Tuổi thọ: 50000h. Diện tích chiếu sáng: 5-15 m 2",
+      "category": "Đèn",
+      "tag": "25%"
+    },
+    {
+      "id": 4,
+      "name": "Tủ kệ sách",
+      "price": 950000,
+      "coverImage": "/images/bookshelf-cover.jpg",
+      "images": [
+        "/images/bookshelf-1.jpg",
+        "/images/bookshelf-2.jpg",
+        "/images/bookshelf-3.jpg",
+        "/images/bookshelf-4.jpg"
+      ],
+      "description": "Những chiếc tủ cao khiến căn phòng trật trội, vậy thì hãy thay thế bằng 1 chiếc kệ gỗ Bắc Âu vẫn chứa được nhiều đồ mà lại giúp không gian thêm thông thoáng. Màu sắc nhã nhặn, phối hài hòa giữa màu vân gỗ sáng tự nhiên với những ô tủ kết hợp thanh lịch. Kệ gỗ lắp ghép nhiều ngăn chứa đồ có thể làm giá sách tại phòng đọc, phòng học, phòng làm việc, văn phòng làm việc. Làm kệ để đồ, kệ trưng sản phẩm, kệ trang trí tại cửa hàng... bề mặt nóc tủ rộng tận dụng thành bàn thấp hoặc nơi bày đồ trang trí",
+      "category": "Phòng làm việc"
+    },
+    {
+      "id": 5,
+      "name": "Giường ngủ gỗ tự nhiên",
+      "price": 1500000,
+      "coverImage": "/images/wooden-bed-cover.jpg",
+      "images": [
+        "/images/wooden-bed-main.jpg",
+        "/images/wooden-bed-1.jpg",
+        "/images/wooden-bed-2.jpg",
+        "/images/wooden-bed-3.jpg",
+        "/images/wooden-bed-4.jpg"
+      ],
+      "description": "💜Mẫu giường ngủ mới mang phong cách Minimalist Bắc Âu. 🚚Sản phẩm đang được phân phối tại Amazon và Wayfair Hoa Kỳ. ☘️Sử dụng sơn gốc nước nhập khẩu (Water based) với chứng nhận SGS tiêu chuẩn 5 KHÔNG (Không Mùi, Không Chì, Không Thủy Ngân, Không Benzene, Không Xelene). 🌲Gỗ thông nhập khẩu chứng nhận FSC (Forest Stewardship Council)",
+      "category": "Phòng ngủ",
+      "tag": "New"
+    },
+    {
+      "id": 6,
+      "name": "Bàn làm việc hiện đại",
+      "price": 700000,
+      "originalPrice": 900000,
+      "coverImage": "/images/modern-desk-cover.jpg",
+      "images": [
+        "/images/modern-desk-main.jpg",
+        "/images/modern-desk-1.jpg",
+        "/images/modern-desk-2.jpg",
+        "/images/modern-desk-3.jpg",
+        "/images/modern-desk-4.jpg"
+      ],
+      "description": "🍎🍎Không gian phòng làm việc không chỉ cần sự yên tĩnh mà thẩm mỹ và nội thất sẽ đem lại những cảm nhận khác biệt và tăng hiệu quả làm việc.🍎🍎Bàn làm việc & gaming chữ U,K,Z được sản xuất trực tiếp tại xưởng gia công, đảm bảo độ chắc chắn cũng như giá thành tận gốc🤓",
+      "category": "Phòng làm việc",
+      "tag": "22%"
+    },
+    {
+      "id": 7,
+      "name": "Tủ quần áo âm tường",
+      "price": 2000000,
+      "coverImage": "/images/wardrobe-cover.jpg",
+      "images": [
+        "/images/wardrobe-1.jpg",
+        "/images/wardrobe-2.jpg",
+        "/images/wardrobe-3.jpg",
+        "/images/wardrobe-4.jpg"
+      ],
+      "description": "👉Được sản xuất với công nghệ cao chất liệu gỗ công nghiệp cao cấp MDF nên tủ không bị cong vênh, không bị mối mọt, thân thiện với môi trường. 👉Với thiết kế đơn giản, tiện lợi trong vận chuyển, khách hàng có thể tháo lắp tủ quần áo 1 cách dễ dàng, di chuyển nhiều nơi mà không sợ vướng víu. 👉Tủ quần áo với thiết kế cửa lùa tiết kiệm diện tích  được sử dụng cam chốt để liên kết các chi tiết thay vì sử dụng đinh vít như các sản phẩm thông thường mang tính thẩm mỹ cao và an toàn khi sử dụng",
+      "category": "Phòng ngủ"
+    },
+    {
+      "id": 8,
+      "name": "Ghế bành thư giãn",
+      "price": 600000,
+      "coverImage": "/images/armchair-cover.jpg",
+      "images": [
+        "/images/armchair-1.jpg",
+        "/images/armchair-2.jpg",
+        "/images/armchair-3.jpg",
+        "/images/armchair-4.jpg"
+      ],
+      "description": "Ghế SOFA có đệm mềm thoải mái ngồi lâu mà không lo bị nóng hay bí lưng, mỏi người. Tạo sự ấm áp, thân thiện, là điểm nhấn cho căn phòng. Tạo sự êm ái, thoải mái và thư giãn cho người dùng sau những giờ làm việc căng thẳng. Có thể để ở các shop trang trí, chụp hình rất xinh xắn. Căn phòng dịch vụ homestay.",
+      "category": "Phòng khách",
+      "tag": "New"
+    },
+    {
+      "id": 9,
+      "name": "Bộ bàn ghế ban công",
+      "price": 1100000,
+      "originalPrice": 1300000,
+      "coverImage": "/images/balcony-set-cover.jpg",
+      "images": [
+        "/images/balcony-set-1.jpg",
+        "/images/balcony-set-2.jpg",
+        "/images/balcony-set-3.jpg",
+        "/images/balcony-set-4.jpg"
+      ],
+      "description": "HT010 là một trong những mẫu bàn ghế ban công, bà ghế ngoài trời được lựa chọn nhiều nhất cho các căn biện thự nhà vườn hay chung cư có ban công rộng, phù hợp cho bàn ban công ngoài trời, bàn cafe. Bộ bàn Ghế ban công ngoài trời HT010 là bộ bàn ghế ngoài trời được tháo rời khi vận chuyển nên rất tiện cho các gia đình có thể tháo rời mang đi để làm bàn ghế ngoài trời sử dụng trong picnic.",
+      "category": "Ngoại thất",
+      "tag": "15%"
+    },
+    {
+      "id": 10,
+      "name": "Kệ tivi đa năng",
+      "price": 850000,
+      "coverImage": "/images/tv-stand-cover.jpg",
+      "images": [
+        "/images/tv-stand-1.jpg",
+        "/images/tv-stand-2.jpg",
+        "/images/tv-stand-3.jpg",
+        "/images/tv-stand-4.jpg"
+      ],
+      "description": "Những chiếc tủ cao khiến căn phòng trật trội, vậy thì hãy thay thế bằng 1 chiếc tủ thấp vẫn chứa được nhiều đồ mà lại giúp không gian thêm thông thoáng. Màu sắc nhã nhặn, phối hài hòa giữa màu vân gỗ sáng tự nhiên với cánh tủ màu trắng thanh lịch. Nhiều ngăn chứa đồ với cánh tủ che chắn chống bụi chống côn trùng kín đáo. Chân tủ cao hơn, vật liệu cứng cáp vững chãi, bề mặt nóc tủ rộng tận dụng thành bàn thấp hoặc nơi bày đồ trang trí.",
+      "category": "Phòng khách"
+    },
+    {
+      "id": 11,
+      "name": "Bàn trang điểm",
+      "price": 750000,
+      "coverImage": "/images/dressing-table-cover.jpg",
+      "images": [
+        "/images/dressing-table-1.jpg",
+        "/images/dressing-table-2.jpg",
+        "/images/dressing-table-3.jpg",
+        "/images/dressing-table-4.jpg"
+      ],
+      "description": "Đặc điểm sản phẩm: Kết cấu ổn định không dễ rung lắc. Kết nối cố định tấm kéo ẩn không chiếm diện tích Gương trang điểm thủy gân, gương trang điểm sáng soi thật rõ ràng Bàn rộng lớn có thể để máy tính, mỹ phẩm .v.v... Ngăn kéo lớn có khóa lưu trữ nhiều đồ, kéo ra kéo vào không dễ hỏng",
+      "category": "Phòng ngủ",
+      "tag": "New"
+    },
+    {
+      "id": 12,
+      "name": "Tủ lạnh side-by-side",
+      "price": 15000000,
+      "originalPrice": 18000000,
+      "coverImage": "/images/refrigerator-cover.jpg",
+      "images": [
+        "/images/refrigerator-1.jpg",
+        "/images/refrigerator-2.jpg",
+        "/images/refrigerator-3.jpg",
+        "/images/refrigerator-4.jpg"
+      ],
+      "description": "Kiểu tủ: Tủ lớn - Side by side - 2 cánh. Dung tích sử dụng: 596 lít - Trên 5 người Dung tích tổng: 612 lít. Dung tích ngăn đá: 208 lít Dung tích ngăn lạnh: 388 lít Dung tích ngăn chuyển đổi: Không có Chất liệu cửa tủ lạnh: Kim loại phủ sơn tĩnh điện Chất liệu khay ngăn lạnh: Kính chịu lực Chất liệu ống dẫn gas, dàn lạnh: Ống dẫn gas bằng Sắt và Đồng - Lá tản nhiệt bằng Nhôm",
+      "category": "Thiết bị gia dụng",
+      "tag": "17%"
+    },
+    {
+      "id": 13,
+      "name": "Máy giặt thông minh",
+      "price": 8000000,
+      "coverImage": "/images/washing-machine-cover.jpg",
+      "images": [
+        "/images/washing-machine-1.jpg",
+        "/images/washing-machine-2.jpg",
+        "/images/washing-machine-3.jpg",
+        "/images/washing-machine-4.jpg"
+      ],
+      "description": "Chế độ giặt nước nóng. Chế độ giặt nước nóng Hotwash giúp đánh bật vết bẩn, vi khuẩn và các tác nhân gây dị ứng, bảo vệ sức khỏe cả gia đình.Chế độ Quick WashGiải pháp tối ưu đối với đồ giặt mỏng nhẹ, ít dơ. Chỉ cần 18 phút**, chế độ Quick Wash sẽ giặt xong quần áo*, giúp tiết kiệm thời gian và giảm thiểu điện năng tiêu thụ.Chế độ Drum CleanChế độ Drum Clean tự động thông báo khi cần vệ sinh lồng giặt. Nhanh chóng loại bỏ cặn bột giặt và bụi bẩn trong lồng giặt, giữ cho máy giặt luôn sạch sẽ như mới. Thông qua quá trình ngâm, rung và vắt ở tốc độ cao, lồng giặt được làm sạch nhanh chóng mà không cần sử dụng đến hóa chất. Tính năng Hẹn Giờ Kết Thúc. Tính năng Hẹn Giờ Kết Thúc cho phép bạn cài đặt giờ giặt và hẹn giờ tối đa 24 tiếng, vì thế quần áo ẩm sẽ không tồn đọng trong máy giặt quá lâu gây mùi hôi và ẩm mốc. Chỉ cần cho quần áo dơ vào máy giặt trước khi ra ngoài và cài đặt kết thúc khi bạn trở về, quần áo sẽ luôn sạch sẽ và thơm mát. Sử dụng máy giặt thuận tiện hơn. Tận hưởng khả năng giặt giũ tiện lợi trên máy giặt Samsung. Màn hình LED rộng lớn hiển thị rõ ràng và cho phép người dùng dễ dàng đọc các chỉ số. Bạn có thể kiểm tra nhanh chóng tình trạng giặt giũ, cài đặt chương trình, xem thời gian còn lại và quy trình giặt. Tối ưu hiệu suất giặt quần áo và chăm sóc sợi vải bền lâu với 14 chương trình giặt được tích hợp sẵn trong máy.",
+      "category": "Thiết bị gia dụng",
+      "tag": "New"
+    },
+    {
+      "id": 14,
+      "name": "Bếp từ đôi",
+      "price": 5000000,
+      "originalPrice": 6000000,
+      "coverImage": "/images/induction-cooker-cover.jpg",
+      "images": [
+        "/images/induction-cooker-1.jpg",
+        "/images/induction-cooker-2.jpg",
+        "/images/induction-cooker-3.jpg",
+        "/images/induction-cooker-4.jpg"
+      ],
+      "description": "Bếp đôi điện từ SUNHOUSE SHB8100 có thiết kế sang trọng rất phù hợp với các căn bếp có phong cách hiện đại. Sản phẩm sử dụng mặt kính cao cấp, chịu lực, chịu nhiệt tốt. Bếp được trang bị bảng điều khiển cảm ứng cùng những tính năng an toàn tiện lợi giúp bạn nấu nướng thuận tiện và nhanh chóng, tiết kiệm tối đa điện năng và thời gian. Bếp đôi điện từ SUNHOUSE SHB8100 có kiểu dáng sang trọng với mặt kính đen toàn phần, các chi tiết trên bề mặt bếp được tối giản, tinh tế. Đặc biệt, thiết kế lắp âm càng tạo nên sự hiện đại cho căn bếp của bạn. Mặt bếp làm bằng kính Ceramic cao cấp, dày 4mm, chịu lực, chịu nhiệt tốt và có độ bền vượt trội. Đặc biệt, bề mặt bếp sáng bóng, nhẵn mịn nên rất sang trọng và dễ dàng vệ sinh sau khi sử dụng",
+      "category": "Thiết bị gia dụng",
+      "tag": "17%"
+    },
+    {
+      "id": 15,
+      "name": "Rèm cửa chống nắng",
+      "price": 500000,
+      "coverImage": "/images/curtains-cover.jpg",
+      "images": [
+        "/images/curtains-1.jpg",
+        "/images/curtains-2.jpg",
+        "/images/curtains-3.jpg",
+        "/images/curtains-4.jpg"
+      ],
+      "description": "Rèm cửa sổ,rèm cửa chính ,màu ghi đậm chống nắng ,rèm trang trí phòng khách phòng ngủ sang trọng chất liệu cao cấp. RÈM CỬA CYRUCO xin kính chào quý khách hàng. với kinh nghiệm 15 năm trong nghề rèm cửa chúng tôi tự tin mang tới khách hàng các sản phẩm rèm cửa với chất lượng tốt nhất giá cả cạnh tranh và dịch vụ chăm sóc khách hàng chuyên nghiệp. Quý khách hoàn toàn có thể yên tâm mua sắm các sản phẩm của rèm cửa CYRUCO bởi: Hàng lỗi chúng tôi sẵn sàng đổi và chịu chi phí vận chuyển. Luôn luôn lắng nghe những góp ý từ khách hàng để đảm bảo sản phẩm được tốt nhất. ĐIỀU quan trọng nhất chúng tôi luôn đứng về phía khách hàng.",
+      "category": "Phụ kiện nội thất"
+    },
+    {
+      "id": 16,
+      "name": "Bộ chăn ga gối",
+      "price": 1200000,
+      "originalPrice": 1500000,
+      "coverImage": "/images/bedding-set-cover.jpg",
+      "images": [
+        "/images/bedding-set-1.jpg",
+        "/images/bedding-set-2.jpg",
+        "/images/bedding-set-3.jpg",
+        "/images/bedding-set-4.jpg"
+      ],
+      "description": "COMBO Bộ SET COMBO 5 món CHĂN PHAO ga gối poly cotton GỒM: 👉  1 CHĂN PHAO - Size Chăn 1m8x2m - Nặng 1kg6-1kg8. 👉  1 Ga bọc đệm đã bo chun chắc chắn kích thước. 👉  2 Vỏ gối nằm 45 x 65cm. Tặng Kèm 1 vỏ ôm",
+      "category": "Phòng ngủ",
+      "tag": "20%"
+    },
+    {
+      "id": 17,
+      "name": "Đèn bàn LED",
+      "price": 300000,
+      "coverImage": "/images/desk-lamp-cover.jpg",
+      "images": [
+        "/images/desk-lamp-main.jpg",
+        "/images/desk-lamp-1.jpg",
+        "/images/desk-lamp-2.jpg",
+        "/images/desk-lamp-3.jpg",
+        "/images/desk-lamp-4.jpg"
+      ],
+      "description": "Đèn bàn LED với nhiều mức độ sáng, bảo vệ mắt khi làm việc hoặc đọc sách.",
+      "category": "Đèn",
+      "tag": "New"
+    },
+    {
+      "id": 18,
+      "name": "Gương trang trí",
+      "price": 600000,
+      "coverImage": "/images/decorative-mirror-cover.jpg",
+      "images": [
+        "/images/decorative-mirror-main.jpg",
+        "/images/decorative-mirror-1.jpg",
+        "/images/decorative-mirror-2.jpg",
+        "/images/decorative-mirror-3.jpg",
+        "/images/decorative-mirror-4.jpg"
+      ],
+      "description": "Gương trang trí với khung kim loại, tạo điểm nhấn cho không gian sống.",
+      "category": "Phụ kiện nội thất"
+    },
+    {
+      "id": 19,
+      "name": "Bàn console",
+      "price": 900000,
+      "coverImage": "/images/console-table-cover.jpg",
+      "images": [
+        "/images/console-table-main.jpg",
+        "/images/console-table-1.jpg",
+        "/images/console-table-2.jpg",
+        "/images/console-table-3.jpg",
+        "/images/console-table-4.jpg"
+      ],
+      "description": "Bàn console thanh lịch, phù hợp cho lối vào hoặc hành lang.",
+      "category": "Phòng khách"
+    },
+    {
+      "id": 20,
+      "name": "Tủ giày thông minh",
+      "price": 750000,
+      "coverImage": "/images/shoe-cabinet-cover.jpg",
+      "images": [
+        "/images/shoe-cabinet-main.jpg",
+        "/images/shoe-cabinet-1.jpg",
+        "/images/shoe-cabinet-2.jpg",
+        "/images/shoe-cabinet-3.jpg",
+        "/images/shoe-cabinet-4.jpg"
+      ],
+      "description": "Tủ giày thông minh với thiết kế tiết kiệm không gian, giúp sắp xếp giày dép gọn gàng.",
+      "category": "Phòng khách"
+    },
+    {
+      "id": 21,
+      "name": "Bàn cà phê",
+      "price": 550000,
+      "coverImage": "/images/coffee-table-cover.jpg",
+      "images": [
+        "/images/coffee-table-main.jpg",
+        "/images/coffee-table-1.jpg",
+        "/images/coffee-table-2.jpg",
+        "/images/coffee-table-3.jpg",
+        "/images/coffee-table-4.jpg"
+      ],
+      "description": "Bàn cà phê hiện đại với mặt kính cường lực, phù hợp cho phòng khách.",
+      "category": "Phòng khách"
+    },
+    {
+      "id": 22,
+      "name": "Máy lọc không khí",
+      "price": 2500000,
+      "originalPrice": 3000000,
+      "coverImage": "/images/air-purifier-cover.jpg",
+      "images": [
+        "/images/air-purifier-main.jpg",
+        "/images/air-purifier-1.jpg",
+        "/images/air-purifier-2.jpg",
+        "/images/air-purifier-3.jpg",
+        "/images/air-purifier-4.jpg"
+      ],
+      "description": "Máy lọc không khí công nghệ cao, loại bỏ bụi mịn và các chất gây dị ứng.",
+      "category": "Thiết bị gia dụng",
+      "tag": "17%"
+    },
+    {
+      "id": 23,
+      "name": "Bộ dao nhà bếp",
+      "price": 1000000,
+      "coverImage": "/images/kitchen-knives-cover.jpg",
+      "images": [
+        "/images/kitchen-knives-main.jpg",
+        "/images/kitchen-knives-1.jpg",
+        "/images/kitchen-knives-2.jpg",
+        "/images/kitchen-knives-3.jpg",
+        "/images/kitchen-knives-4.jpg"
+      ],
+      "description": "Bộ dao nhà bếp chất lượng cao, đầy đủ các loại dao cho nhu cầu nấu nướng.",
+      "category": "Nhà bếp",
+      "tag": "New"
+    },
+    {
+      "id": 24,
+      "name": "Thảm phòng khách",
+      "price": 800000,
+      "coverImage": "/images/living-room-carpet-cover.jpg",
+      "images": [
+        "/images/living-room-carpet-main.jpg",
+        "/images/living-room-carpet-1.jpg",
+        "/images/living-room-carpet-2.jpg",
+        "/images/living-room-carpet-3.jpg",
+        "/images/living-room-carpet-4.jpg"
+      ],
+      "description": "Thảm phòng khách lông mềm, tạo cảm giác ấm cúng và sang trọng.",
+      "category": "Phòng khách"
+    },
+    {
+      "id": 25,
+      "name": "Bàn làm việc đứng",
+      "price": 1800000,
+      "originalPrice": 2200000,
+      "coverImage": "/images/standing-desk-cover.jpg",
+      "images": [
+        "/images/standing-desk-main.jpg",
+        "/images/standing-desk-1.jpg",
+        "/images/standing-desk-2.jpg",
+        "/images/standing-desk-3.jpg",
+        "/images/standing-desk-4.jpg"
+      ],
+      "description": "Bàn làm việc đứng có thể điều chỉnh độ cao, giúp cải thiện sức khỏe khi làm việc.",
+      "category": "Phòng làm việc",
+      "tag": "18%"
+    },
+    {
+      "id": 26,
+      "name": "Bộ nồi chảo chống dính",
+      "price": 1500000,
+      "coverImage": "/images/cookware-set-cover.jpg",
+      "images": [
+        "/images/cookware-set-main.jpg",
+        "/images/cookware-set-1.jpg",
+        "/images/cookware-set-2.jpg",
+        "/images/cookware-set-3.jpg",
+        "/images/cookware-set-4.jpg"
+      ],
+      "description": "Bộ nồi chảo chống dính cao cấp, an toàn cho sức khỏe và dễ dàng vệ sinh.",
+      "category": "Nhà bếp",
+      "tag": "New"
+    },
+    {
+      "id": 27,
+      "name": "Đồng hồ treo tường",
+      "price": 400000,
+      "coverImage": "/images/wall-clock-cover.jpg",
+      "images": [
+        "/images/wall-clock-main.jpg",
+        "/images/wall-clock-1.jpg",
+        "/images/wall-clock-2.jpg",
+        "/images/wall-clock-3.jpg",
+        "/images/wall-clock-4.jpg"
+      ],
+      "description": "Đồng hồ treo tường thiết kế hiện đại, phù hợp cho nhiều không gian khác nhau.",
+      "category": "Phụ kiện nội thất"
+    },
+    {
+      "id": 28,
+      "name": "Máy pha cà phê",
+      "price": 3500000,
+      "originalPrice": 4000000,
+      "coverImage": "/images/coffee-maker-cover.jpg",
+      "images": [
+        "/images/coffee-maker-main.jpg",
+        "/images/coffee-maker-1.jpg",
+        "/images/coffee-maker-2.jpg",
+        "/images/coffee-maker-3.jpg",
+        "/images/coffee-maker-4.jpg"
+      ],
+      "description": "Máy pha cà phê tự động với nhiều chức năng, cho những tách cà phê hoàn hảo.",
+      "category": "Thiết bị gia dụng",
+      "tag": "13%"
+    },
+    {
+      "id": 29,
+      "name": "Bàn học cho trẻ em",
+      "price": 700000,
+      "coverImage": "/images/kids-study-desk-cover.jpg",
+      "images": [
+        "/images/kids-study-desk-main.jpg",
+        "/images/kids-study-desk-1.jpg",
+        "/images/kids-study-desk-2.jpg",
+        "/images/kids-study-desk-3.jpg",
+        "/images/kids-study-desk-4.jpg"
+      ],
+      "description": "Bàn học thiết kế ergonomic cho trẻ em, giúp duy trì tư thế đúng khi học tập.",
+      "category": "Phòng trẻ em",
+      "tag": "New"
+    },
+    {
+      "id": 30,
+      "name": "Tủ đựng rượu",
+      "price": 2500000,
+      "coverImage": "/images/wine-cabinet-cover.jpg",
+      "images": [
+        "/images/wine-cabinet-main.jpg",
+        "/images/wine-cabinet-1.jpg",
+        "/images/wine-cabinet-2.jpg",
+        "/images/wine-cabinet-3.jpg",
+        "/images/wine-cabinet-4.jpg"
+      ],
+      "description": "Tủ đựng rượu với khả năng kiểm soát nhiệt độ, bảo quản rượu một cách hoàn hảo.",
+      "category": "Phòng ăn"
+    },
+    {
+      "id": 31,
+      "name": "Bàn làm việc góc",
+      "price": 1800000,
+      "originalPrice": 2200000,
+      "coverImage": "/images/corner-desk-cover.jpg",
+      "images": [
+        "/images/corner-desk-main.jpg",
+        "/images/corner-desk-1.jpg",
+        "/images/corner-desk-2.jpg",
+        "/images/corner-desk-3.jpg",
+        "/images/corner-desk-4.jpg"
+      ],
+      "description": "Bàn làm việc góc tiết kiệm không gian, phù hợp cho các góc phòng và tối ưu diện tích sử dụng.",
+      "category": "Phòng làm việc",
+      "tag": "18%"
+    },
+    {
+      "id": 32,
+      "name": "Đèn sàn hiện đại",
+      "price": 650000,
+      "coverImage": "/images/floor-lamp-cover.jpg",
+      "images": [
+        "/images/floor-lamp-main.jpg",
+        "/images/floor-lamp-1.jpg",
+        "/images/floor-lamp-2.jpg",
+        "/images/floor-lamp-3.jpg",
+        "/images/floor-lamp-4.jpg"
+      ],
+      "description": "Đèn sàn thiết kế hiện đại, cung cấp ánh sáng dịu nhẹ và tạo điểm nhấn cho không gian sống.",
+      "category": "Đèn",
+      "tag": "New"
+    }
+  ]
+}

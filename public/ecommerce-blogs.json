@@ -1,0 +1,204 @@
+{
+  "blogs": [
+    {
+      "id": "ec001",
+      "image": "/images/crafts-trends-2024.jpg",
+      "title": "10 Xu Hướng Thủ Công Mỹ Nghệ Năm 2024",
+      "content": "Năm 2024 hứa hẹn sẽ là một năm đầy sáng tạo cho ngành thủ công mỹ nghệ. Với sự kết hợp giữa truyền thống và công nghệ mới, các nghệ nhân đang tạo ra những sản phẩm độc đáo và ấn tượng...",
+      "author": "Nguyễn Thị Ánh",
+      "day": "05 Jan 2024",
+      "tag": "Thủ công",
+      "category": "crafts"
+    },
+    {
+      "id": "ec002",
+      "image": "/images/ai-in-design.jpg",
+      "title": "Cách Mạng Hóa Thiết Kế với Trí Tuệ Nhân Tạo",
+      "content": "Trí tuệ nhân tạo (AI) đang nhanh chóng trở thành một công cụ không thể thiếu trong ngành thiết kế, mang lại những thay đổi đột phá trong cách các nhà thiết kế làm việc và sáng tạo...",
+      "author": "Trần Minh Quân",
+      "day": "18 Feb 2024",
+      "tag": "Công nghệ",
+      "category": "design"
+    },
+    {
+      "id": "ec003",
+      "image": "/images/handmade-jewelry.jpg",
+      "title": "Nghệ Thuật Chế Tác Trang Sức Thủ Công",
+      "content": "Trang sức thủ công đang trở thành xu hướng hot trong giới thời trang. Bài viết này sẽ giới thiệu về quy trình chế tác và những kỹ thuật độc đáo trong nghệ thuật làm trang sức thủ công...",
+      "author": "Lê Thanh Hà",
+      "day": "03 Mar 2024",
+      "tag": "Trang sức",
+      "category": "handmade"
+    },
+    {
+      "id": "ec004",
+      "image": "/images/interior-design-trends.jpg",
+      "title": "Những Xu Hướng Thiết Kế Nội Thất Đáng Chú Ý Năm 2024",
+      "content": "Thiết kế nội thất năm 2024 đang hướng đến sự kết hợp giữa công năng và thẩm mỹ, với việc sử dụng các vật liệu bền vững và công nghệ thông minh. Bài viết này sẽ giới thiệu các xu hướng nổi bật trong thiết kế nội thất...",
+      "author": "Phạm Minh Tuấn",
+      "day": "20 Mar 2024",
+      "tag": "Nội thất",
+      "category": "interior"
+    },
+    {
+      "id": "ec005",
+      "image": "/images/wood-crafting.jpg",
+      "title": "Nghệ Thuật Chế Tác Gỗ: Từ Truyền Thống đến Hiện Đại",
+      "content": "Nghệ thuật chế tác gỗ đã có lịch sử lâu đời, nhưng vẫn không ngừng phát triển với những kỹ thuật và công nghệ mới. Bài viết này sẽ khám phá sự kết hợp giữa kỹ thuật truyền thống và công nghệ hiện đại trong nghề mộc...",
+      "author": "Võ Thị Linh",
+      "day": "12 Apr 2024",
+      "tag": "Đồ gỗ",
+      "category": "wood"
+    },
+    {
+      "id": "ec006",
+      "image": "/images/sustainable-crafts.jpg",
+      "title": "Thủ Công Mỹ Nghệ Bền Vững: Xu Hướng Mới trong Ngành",
+      "content": "Sự quan tâm ngày càng tăng đối với môi trường đã dẫn đến sự phát triển của xu hướng thủ công mỹ nghệ bền vững. Bài viết này sẽ khám phá cách các nghệ nhân đang áp dụng nguyên tắc bền vững trong sáng tạo của họ...",
+      "author": "Nguyễn Văn Nam",
+      "day": "15 May 2024",
+      "tag": "Bền vững",
+      "category": "crafts"
+    },
+    {
+      "id": "ec007",
+      "image": "/images/3d-printing-design.jpg",
+      "title": "Ứng Dụng In 3D trong Thiết Kế Sản Phẩm",
+      "content": "Công nghệ in 3D đang mở ra những khả năng mới trong lĩnh vực thiết kế sản phẩm. Bài viết này sẽ tìm hiểu về cách in 3D đang thay đổi quy trình thiết kế và sản xuất...",
+      "author": "Trần Thị Mai",
+      "day": "22 Jun 2024",
+      "tag": "Công nghệ",
+      "category": "design"
+    },
+    {
+      "id": "ec008",
+      "image": "/images/handmade-soap.jpg",
+      "title": "Nghệ Thuật Làm Xà Phòng Thủ Công",
+      "content": "Làm xà phòng thủ công không chỉ là một hobby thú vị mà còn có thể trở thành một doanh nghiệp nhỏ. Bài viết này sẽ hướng dẫn cách làm xà phòng thủ công và chia sẻ một số công thức độc đáo...",
+      "author": "Lê Hoàng Anh",
+      "day": "30 Jul 2024",
+      "tag": "Mỹ phẩm",
+      "category": "handmade"
+    },
+    {
+      "id": "ec009",
+      "image": "/images/smart-home-interior.jpg",
+      "title": "Tích Hợp Công Nghệ Thông Minh trong Thiết Kế Nội Thất",
+      "content": "Nhà thông minh không còn là khái niệm của tương lai. Bài viết này sẽ khám phá cách các nhà thiết kế nội thất đang tích hợp công nghệ thông minh vào không gian sống...",
+      "author": "Phạm Thanh Hà",
+      "day": "10 Aug 2024",
+      "tag": "Công nghệ",
+      "category": "interior"
+    },
+    {
+      "id": "ec010",
+      "image": "/images/wood-restoration.jpg",
+      "title": "Kỹ Thuật Phục Chế Đồ Gỗ Cổ",
+      "content": "Phục chế đồ gỗ cổ là một nghệ thuật đòi hỏi sự kiên nhẫn và kỹ năng cao. Bài viết này sẽ chia sẻ các kỹ thuật và bí quyết trong việc phục chế đồ gỗ cổ...",
+      "author": "Nguyễn Đức Thành",
+      "day": "18 Sep 2024",
+      "tag": "Phục chế",
+      "category": "wood"
+    },
+    {
+      "id": "ec011",
+      "image": "/images/eco-friendly-crafts.jpg",
+      "title": "Nghệ Thuật Tái Chế trong Thủ Công Mỹ Nghệ",
+      "content": "Tái chế không chỉ là xu hướng mà còn là một phong trào trong ngành thủ công mỹ nghệ. Bài viết này sẽ giới thiệu các ý tưởng sáng tạo để tạo ra các sản phẩm thủ công từ vật liệu tái chế...",
+      "author": "Trần Thị Hương",
+      "day": "25 Oct 2024",
+      "tag": "Tái chế",
+      "category": "crafts"
+    },
+    {
+      "id": "ec012",
+      "image": "/images/vr-design.jpg",
+      "title": "Thiết Kế trong Thực Tế Ảo: Tương Lai của Ngành Thiết Kế",
+      "content": "Công nghệ thực tế ảo (VR) đang mở ra một chân trời mới cho ngành thiết kế. Bài viết này sẽ khám phá cách VR đang thay đổi cách các nhà thiết kế làm việc và tương tác với khách hàng...",
+      "author": "Nguyễn Văn Hùng",
+      "day": "03 Nov 2024",
+      "tag": "VR",
+      "category": "design"
+    },
+    {
+      "id": "ec013",
+      "image": "/images/handmade-ceramics.jpg",
+      "title": "Nghệ Thuật Gốm Sứ Thủ Công: Từ Đất Sét đến Tác Phẩm",
+      "content": "Gốm sứ thủ công là một trong những nghề thủ công lâu đời nhất. Bài viết này sẽ giới thiệu quy trình làm gốm từ A đến Z, từ việc chuẩn bị đất sét đến các kỹ thuật trang trí độc đáo...",
+      "author": "Lê Thị Nga",
+      "day": "12 Dec 2024",
+      "tag": "Gốm sứ",
+      "category": "handmade"
+    },
+    {
+      "id": "ec014",
+      "image": "/images/biophilic-design.jpg",
+      "title": "Thiết Kế Nội Thất Biophilic: Kết Nối Con Người với Thiên Nhiên",
+      "content": "Thiết kế biophilic đang trở thành xu hướng hot trong thiết kế nội thất. Bài viết này sẽ khám phá cách tích hợp các yếu tố tự nhiên vào không gian sống để tạo ra môi trường sống lành mạnh và thư giãn...",
+      "author": "Trần Minh Đức",
+      "day": "20 Jan 2025",
+      "tag": "Biophilic",
+      "category": "interior"
+    },
+    {
+      "id": "ec015",
+      "image": "/images/wood-carving.jpg",
+      "title": "Nghệ Thuật Chạm Khắc Gỗ: Từ Truyền Thống đến Hiện Đại",
+      "content": "Chạm khắc gỗ là một nghệ thuật tinh tế đòi hỏi sự kiên nhẫn và kỹ năng cao. Bài viết này sẽ giới thiệu các kỹ thuật chạm khắc gỗ truyền thống và cách áp dụng chúng trong thiết kế hiện đại...",
+      "author": "Phạm Văn Tùng",
+      "day": "28 Feb 2025",
+      "tag": "Chạm khắc",
+      "category": "wood"
+    },
+    {
+      "id": "ec016",
+      "image": "/images/digital-crafts.jpg",
+      "title": "Sự Kết Hợp Giữa Thủ Công và Kỹ Thuật Số",
+      "content": "Công nghệ kỹ thuật số đang tạo ra một cuộc cách mạng trong ngành thủ công mỹ nghệ. Bài viết này sẽ khám phá cách các nghệ nhân đang kết hợp kỹ thuật thủ công truyền thống với công nghệ hiện đại để tạo ra những sản phẩm độc đáo...",
+      "author": "Nguyễn Thị Lan",
+      "day": "05 Mar 2025",
+      "tag": "Kỹ thuật số",
+      "category": "crafts"
+    },
+    {
+      "id": "ec017",
+      "image": "/images/parametric-design.jpg",
+      "title": "Thiết Kế Tham Số: Cách Mạng Hóa Quy Trình Thiết Kế",
+      "content": "Thiết kế tham số đang thay đổi cách các nhà thiết kế tiếp cận các dự án phức tạp. Bài viết này sẽ giải thích khái niệm thiết kế tham số và cách nó đang được áp dụng trong kiến trúc và thiết kế sản phẩm...",
+      "author": "Lê Văn Quang",
+      "day": "15 Apr 2025",
+      "tag": "Tham số",
+      "category": "design"
+    },
+    {
+      "id": "ec018",
+      "image": "/images/handmade-textiles.jpg",
+      "title": "Nghệ Thuật Dệt May Thủ Công: Từ Sợi đến Vải",
+      "content": "Dệt may thủ công là một nghề thủ công đòi hỏi sự tỉ mỉ và sáng tạo. Bài viết này sẽ giới thiệu các kỹ thuật dệt may thủ công truyền thống và cách chúng đang được áp dụng trong thời trang hiện đại...",
+      "author": "Trần Thị Hương",
+      "day": "22 May 2025",
+      "tag": "Dệt may",
+      "category": "handmade"
+    },
+    {
+      "id": "ec019",
+      "image": "/images/eco-friendly-furniture.jpg",
+      "title": "Nội Thất Bền Vững: Xu Hướng Mới trong Thiết Kế Nội Thất",
+      "content": "Sự quan tâm ngày càng tăng đối với môi trường đã dẫn đến sự phát triển của xu hướng nội thất bền vững. Bài viết này sẽ khám phá cách các nhà thiết kế đang tạo ra các sản phẩm nội thất bền vững và thân thiện với môi trường...",
+      "author": "Nguyễn Văn Hùng",
+      "day": "03 Jun 2025",
+      "tag": "Bền vững",
+      "category": "interior"
+    },
+    {
+      "id": "ec020",
+      "image": "/images/ai-in-architecture.jpg",
+      "title": "Ứng Dụng Trí Tuệ Nhân Tạo trong Kiến Trúc",
+      "content": "Trí tuệ nhân tạo (AI) đang được áp dụng rộng rãi trong lĩnh vực kiến trúc. Bài viết này sẽ tìm hiểu về cách AI đang thay đổi quy trình thiết kế và xây dựng các tòa nhà...",
+      "author": "Lê Thị Nga",
+      "day": "12 Jul 2025",
+      "tag": "Công nghệ",
+      "category": "design"
+    }
+  ]
+}

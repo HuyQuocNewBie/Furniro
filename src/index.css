@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Thêm các styles tùy chỉnh nếu cần */
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+.custom-notification {
+  animation: slideInRight 0.5s ease-out;
+}
+
+.ant-notification-notice {
+  padding: 0 !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+.ant-notification-notice-message {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.ant-notification-notice-close {
+  top: 16px !important;
+  right: 16px !important;
+}
